@@ -41,11 +41,13 @@ TimingPoints:
   Bpm: 115
 - StartTime: 26721.4375
   Bpm: 115
+- StartTime: 43416.08203125
+  Bpm: 115
 - StartTime: 58025.76953125
   Bpm: 114
 - StartTime: 60131.01953125
   Bpm: 222
-- StartTime: 66617.5
+- StartTime: 66616.5
   Bpm: 216.25999450683594
   Signature: Triple
 - StartTime: 70779
@@ -735,13 +737,6 @@ TimingPoints:
 - StartTime: 91473
   Bpm: 217.44999694824219
   Signature: Triple
-  Hidden: true
-- StartTime: 91747.671875
-  Bpm: 217.44999694824219
-  Signature: Triple
-- StartTime: 91749.671875
-  Bpm: 217.44999694824219
-  Signature: Triple
 - StartTime: 105132
   Bpm: 217.44999694824219
   Signature: Triple
@@ -920,6 +915,9 @@ TimingPoints:
 - StartTime: 105959
   Bpm: 362.41598510742188
   Signature: 5
+- StartTime: 109269.1015625
+  Bpm: 362.41598510742188
+  Signature: 5
 - StartTime: 111754
   Bpm: 362.41598510742188
   Signature: 5
@@ -1089,6 +1087,9 @@ TimingPoints:
   Bpm: 362.41598510742188
   Signature: 5
 - StartTime: 112582
+  Bpm: 362.41598510742188
+  Signature: 5
+- StartTime: 113408.7734375
   Bpm: 362.41598510742188
   Signature: 5
 - StartTime: 118376
@@ -1262,6 +1263,9 @@ TimingPoints:
 - StartTime: 119204
   Bpm: 362.41598510742188
   Signature: 5
+- StartTime: 120858.5390625
+  Bpm: 362.41598510742188
+  Signature: 5
 - StartTime: 124998
   Bpm: 362.41598510742188
   Signature: 5
@@ -1431,6 +1435,9 @@ TimingPoints:
   Bpm: 362.41598510742188
   Signature: 5
 - StartTime: 125826
+  Bpm: 362.41598510742188
+  Signature: 5
+- StartTime: 128308.3359375
   Bpm: 362.41598510742188
   Signature: 5
 - StartTime: 131620.953125
@@ -15697,7 +15704,7 @@ SliderVelocities:
 - StartTime: 112995.015625
   Multiplier: 0.34999999403953552
 - StartTime: 113409
-  Multiplier: 7414.75
+  Multiplier: 9273.9501953125
 - StartTime: 113409.015625
   Multiplier: 0.34999999403953552
 - StartTime: 113740
@@ -19974,12 +19981,12 @@ HitObjects:
   HitSound: Finish
   KeySounds: []
   EditorLayer: 3
-- StartTime: 111092
+- StartTime: 111090
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 5
-- StartTime: 111092
+- StartTime: 111090
   Lane: 1
   KeySounds: []
   EditorLayer: 4
