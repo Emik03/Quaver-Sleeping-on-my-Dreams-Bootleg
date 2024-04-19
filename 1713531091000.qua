@@ -4461,16 +4461,16 @@ HitObjects:
   KeySounds: []
   EditorLayer: 4
 - StartTime: 126819
-  Lane: 4
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 6
 - StartTime: 126819
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 5
 - StartTime: 126985
-  Lane: 2
+  Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 6
@@ -4484,7 +4484,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 6
 - StartTime: 127316
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 5
 - StartTime: 127482
@@ -4520,7 +4520,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 5
 - StartTime: 127978
-  Lane: 4
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 6
@@ -4543,16 +4543,16 @@ HitObjects:
   KeySounds: []
   EditorLayer: 4
 - StartTime: 128475
-  Lane: 4
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 6
 - StartTime: 128475
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 5
 - StartTime: 128640
-  Lane: 2
+  Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 6
@@ -4566,7 +4566,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 6
 - StartTime: 128972
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 5
 - StartTime: 129137
@@ -4602,7 +4602,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 5
 - StartTime: 129634
-  Lane: 2
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 6
@@ -4630,7 +4630,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 6
 - StartTime: 130130
-  Lane: 2
+  Lane: 1
   KeySounds: []
   EditorLayer: 5
 - StartTime: 130296
@@ -4639,7 +4639,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 6
 - StartTime: 130296
-  Lane: 1
+  Lane: 2
   KeySounds: []
   EditorLayer: 5
 - StartTime: 130627
@@ -4648,7 +4648,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 6
 - StartTime: 130627
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 5
 - StartTime: 130793
@@ -4684,7 +4684,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 5
 - StartTime: 131289
-  Lane: 3
+  Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 6
