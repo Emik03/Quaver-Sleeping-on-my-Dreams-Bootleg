@@ -219,9 +219,6 @@ TimingPoints:
 - StartTime: 71589
   Bpm: 217.44999694824219
   Signature: Triple
-- StartTime: 71604
-  Bpm: 217.44999694824219
-  Signature: Triple
 - StartTime: 71607
   Bpm: 217.44999694824219
   Signature: Triple
@@ -388,9 +385,6 @@ TimingPoints:
   Bpm: 217.44999694824219
   Signature: Triple
 - StartTime: 78211
-  Bpm: 217.44999694824219
-  Signature: Triple
-- StartTime: 78226
   Bpm: 217.44999694824219
   Signature: Triple
 - StartTime: 78229
@@ -561,9 +555,6 @@ TimingPoints:
 - StartTime: 84833
   Bpm: 217.44999694824219
   Signature: Triple
-- StartTime: 84848
-  Bpm: 217.44999694824219
-  Signature: Triple
 - StartTime: 84851
   Bpm: 217.44999694824219
   Signature: Triple
@@ -730,9 +721,6 @@ TimingPoints:
   Bpm: 217.44999694824219
   Signature: Triple
 - StartTime: 91455
-  Bpm: 217.44999694824219
-  Signature: Triple
-- StartTime: 91470
   Bpm: 217.44999694824219
   Signature: Triple
 - StartTime: 91473
@@ -910,9 +898,6 @@ TimingPoints:
 - StartTime: 105942
   Bpm: 362.41598510742188
   Signature: 5
-- StartTime: 105957
-  Bpm: 362.41598510742188
-  Signature: 5
 - StartTime: 105959
   Bpm: 362.41598510742188
   Signature: 5
@@ -1082,9 +1067,6 @@ TimingPoints:
   Bpm: 362.41598510742188
   Signature: 5
 - StartTime: 112564
-  Bpm: 362.41598510742188
-  Signature: 5
-- StartTime: 112579
   Bpm: 362.41598510742188
   Signature: 5
 - StartTime: 112582
@@ -1258,9 +1240,6 @@ TimingPoints:
 - StartTime: 119186
   Bpm: 362.41598510742188
   Signature: 5
-- StartTime: 119201
-  Bpm: 362.41598510742188
-  Signature: 5
 - StartTime: 119204
   Bpm: 362.41598510742188
   Signature: 5
@@ -1430,9 +1409,6 @@ TimingPoints:
   Bpm: 362.41598510742188
   Signature: 5
 - StartTime: 125808
-  Bpm: 362.41598510742188
-  Signature: 5
-- StartTime: 125823
   Bpm: 362.41598510742188
   Signature: 5
 - StartTime: 125826
