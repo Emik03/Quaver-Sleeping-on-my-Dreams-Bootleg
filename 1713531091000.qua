@@ -18389,17 +18389,17 @@ HitObjects:
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 2
-- StartTime: 57764
+- StartTime: 57765
+  Lane: 3
+  EndTime: 57895
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 5
+- StartTime: 57765
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 6
-- StartTime: 57764
-  Lane: 3
-  EndTime: 57894
-  HitSound: Whistle
-  KeySounds: []
-  EditorLayer: 5
 - StartTime: 57895
   Lane: 2
   EndTime: 58025
