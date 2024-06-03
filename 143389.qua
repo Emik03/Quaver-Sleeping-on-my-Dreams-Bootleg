@@ -32970,6 +32970,7 @@ HitObjects:
   EditorLayer: 5
 - StartTime: 78780
   Lane: 4
+  EndTime: 79056
   KeySounds: []
   EditorLayer: 4
 - StartTime: 78781
@@ -33008,6 +33009,7 @@ HitObjects:
   EditorLayer: 5
 - StartTime: 79608
   Lane: 1
+  EndTime: 79884
   KeySounds: []
   EditorLayer: 4
 - StartTime: 79884
@@ -33042,6 +33044,7 @@ HitObjects:
   EditorLayer: 5
 - StartTime: 80436
   Lane: 4
+  EndTime: 80712
   KeySounds: []
   EditorLayer: 4
 - StartTime: 80712
@@ -33075,6 +33078,7 @@ HitObjects:
   EditorLayer: 5
 - StartTime: 81264
   Lane: 1
+  EndTime: 81540
   KeySounds: []
   EditorLayer: 4
 - StartTime: 81540
@@ -33104,6 +33108,7 @@ HitObjects:
   EditorLayer: 4
 - StartTime: 82091
   Lane: 4
+  EndTime: 82367
   KeySounds: []
   EditorLayer: 4
 - StartTime: 82092
